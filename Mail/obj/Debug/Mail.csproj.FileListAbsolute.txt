@@ -1,0 +1,9 @@
+G:\Mail\Mail\bin\Debug\Mail.exe.config
+G:\Mail\Mail\bin\Debug\Mail.exe
+G:\Mail\Mail\bin\Debug\Mail.pdb
+G:\Mail\Mail\obj\Debug\Mail.csprojResolveAssemblyReference.cache
+G:\Mail\Mail\obj\Debug\Mail.Form1.resources
+G:\Mail\Mail\obj\Debug\Mail.Properties.Resources.resources
+G:\Mail\Mail\obj\Debug\Mail.csproj.GenerateResource.Cache
+G:\Mail\Mail\obj\Debug\Mail.exe
+G:\Mail\Mail\obj\Debug\Mail.pdb
